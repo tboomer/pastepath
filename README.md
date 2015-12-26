@@ -1,4 +1,4 @@
-# pastepath
+# Pastepath
 The pp() function in this package modifies a copied Windows file path so the backslashes are converted to
 forward slashes. It is meant to be used at the console wherever a full file path string is required in an
 R command. To apply it, the user:
