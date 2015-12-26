@@ -1,0 +1,13 @@
+Package: pastepath
+Type: Package
+Title: Paste Valid Windows Path
+Version: 0.1
+Date: 2015-12-26
+Author: Tim Boomer
+Maintainer: Tim Boomer <tim.boomer@gmail.com>
+Description: The pp() function reads the contents of the Windows
+    clipboard and converts the string to a valid R file path.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: testthat
